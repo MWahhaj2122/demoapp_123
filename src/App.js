@@ -11,7 +11,7 @@ function App() {
     <br />
     <Dinner dish = 'Chicken Jalfarazi' sweet = 'Halwaa'></Dinner>
     <br />
-    <Dinner dish = 'Biryaani' sweet = 'Kheer'></Dinner>
+    <Dinner dish = 'Chicken' sweet = 'Kheer'></Dinner>
     </div>
   )
 }
